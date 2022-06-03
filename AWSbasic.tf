@@ -18,7 +18,6 @@ provider "aws" {
 }
 
 #tbd
-
 #test
 
 resource "aws_instance" "server-xyz" {
